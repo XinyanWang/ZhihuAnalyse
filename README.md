@@ -12,5 +12,5 @@ It's some scripts I wrote for analysing the users' information in Zhihu.
 
 - UserInfos
  1. 用于得到用户所活跃的话题领域
- 2. 所依赖的代码已经弃用
- 3. **其中的bot账号**很重要
+ 2. **已经弃用该部分**
+
