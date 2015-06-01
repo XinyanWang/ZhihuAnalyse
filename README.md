@@ -1,5 +1,5 @@
 # ZhihuAnalyse
-It's some scripts I wrote for analysing the users' information in Zhihu.
+For analysing the users' information in Zhihu.
 
 - toolbox_v1.1
  - 实现了:
